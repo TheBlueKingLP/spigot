@@ -14,7 +14,7 @@ index a5d54a49f..d604295ac 100644
  
      public String getServerModName() {
 -        return server.getName(); // CraftBukkit - cb > vanilla!
-+        return "Spigot"; // Spigot - Spigot > // CraftBukkit - cb > vanilla!
++        return "VanillaCube"; // Spigot - Spigot > // CraftBukkit - cb > vanilla!
      }
  
      public CrashReport b(CrashReport crashreport) {
